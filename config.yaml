@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: "https://willowy-taiyaki-9cd803.netlify.app/"
 languageCode: en-us
 title: A Hugo website
 theme: hugo-lithium
