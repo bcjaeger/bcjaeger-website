@@ -7,7 +7,7 @@ categories:
 date: "2022-07-30"
 draft: false
 excerpt: Optimized to fit, interpret, and make predictions with oblique random survival forests (ORSFs), this R package is written with an intuitive, formula based API. In addition to fitting ORSFs, several methods to estimate the importance of individual variables using an ORSF are available.
-layout: single
+layout: single-sidebar
 links:
 - icon: door-open
   icon_pack: fas

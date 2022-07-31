@@ -4,7 +4,7 @@ categories:
 - Machine learning
 - survival analysis
 - variable importance
-date: "2022-07-31"
+date: "2022-07-29"
 draft: false
 excerpt: A general benchmark of the `aorsf` package, comparing its computational efficiency, prediction accuracy, and interpretability to leading software packages such as `ranger`, `randomForestSRC`, and `party`. We also show that `aorsf` can run over 500 times faster than its predecessor, `obliqueRSF`.
 featured: true
@@ -18,7 +18,7 @@ links:
   icon_pack: fab
   name: code
   url: https://github.com/bcjaeger/aorsf-bench
-subtitle: ""
+subtitle: "Work in progress"
 tags:
 - hugo-site
 title: Benchmarking aorsf

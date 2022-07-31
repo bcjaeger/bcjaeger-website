@@ -3,10 +3,10 @@ author: Byron C Jaeger
 categories:
 - Shiny application
 - NHANES
-date: "2022-07-30"
+date: "2022-07-28"
 draft: false
 excerpt: This shiny application is also an R package. It comes with meticulously cleaned data from the National Health and Nutrition Examination Survey (NHANES) and a function to run the `nhanesTrends` app locally.
-layout: single
+layout: single-sidebar
 subtitle: This shiny application is also an R package. It comes with meticulously cleaned data from the National Health and Nutrition Examination Survey (NHANES) and a function to run the `nhanesTrends` app locally.
 tags:
 - hugo-site

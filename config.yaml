@@ -60,9 +60,6 @@ params:
     - icon: orcid
       icon_pack: ai
       url: http://orcid.org/0000-0001-7399-2299
-    - icon: rss
-      icon_pack: fas
-      url: /blog/index.xml
   socialInFooter: yes
   socialInHeader: no
   textFontFamily: sans-serif
@@ -109,14 +106,6 @@ menu:
       title: Talks
       url: /talk/
       weight: 4
-    - name: A collection
-      title: A collection
-      url: /collection/
-      weight: 5
-    - name: Elements
-      title: Element Page
-      url: /elements/
-      weight: 6
 privacy:
   disqus:
     disable: no

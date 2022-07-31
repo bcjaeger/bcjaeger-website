@@ -11,7 +11,7 @@ link_list:
   url: https://bcjaeger.github.io/aorsf/
 - name: benchmarking aorsf
   url: https://github.com/bcjaeger/aorsf-bench
-- name: NHANES explorer
+- name: nhanesTrends
   url: https://bcjaeger.shinyapps.io/nhanesShinyBP/
 ---
 
