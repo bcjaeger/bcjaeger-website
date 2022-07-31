@@ -1,17 +1,15 @@
 ---
 ## Configure page content in wide column
-title: "Why apéro?" # leave blank to exclude
+title: "My background" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  Apéro is a unique kind of casual get-together in French culture, when you gather with friends and get to know each other better over some apéritifs, snacks, and anything in between. A good apéro is one where you'd happily spend a few hours just hanging out.
-  
-  I hope this theme helps you create your own virtual apéro. A place where you and your site's visitors enjoy spending time, and one that helps folks get to know you better. 
+  I got my doctorate in Biostatistics from University of North Carolina at Chapel Hill in 2017. My dissertation developed R-squared statistics for the linear and generalize linear mixed model (see `r2glmm` in my projects). In 2016, I was an adjunct professor of statistics at North Carolina Central University, teaching undergraduate and graduate level courses in statistics. From 2017-2021, I was an assistant professor of Biostatistics at University of Alabama at Birmingham. There, I studied machine learning, blood pressure, hypertension, cardiovascular disease, and wearable device data. What I like most about research is the programming that supports it. I am an enthusiastic R user, I've made a few R packages, and I've taught introductory courses to programming. 
 show_outro: true
 outro: |
-  <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
+  <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Alison Hill](https://www.apreshill.com/) for developing the [Apéro](https://hugo-apero.netlify.app/) theme that supports this site, and 
 ---
 
 ** index doesn't contain a body, just front matter above.

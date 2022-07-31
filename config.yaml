@@ -1,8 +1,8 @@
-baseURL: /
+baseURL: "https://www.byronjaeger.com/"
 theme: hugo-apero
 languageCode: en
-title: Hugo Apéro
-author: Alison Hill
+title: Byron's Blog
+author: Byron C Jaeger
 copyright: ''
 googleAnalytics: ''
 disqusShortname: ''
@@ -33,7 +33,7 @@ params:
   custom_theme: ''
   customheadingFontFamily: Fraunces
   customtextFontFamily: Commissioner
-  description: A modern, beautiful, and easily configurable blog theme for Hugo.
+  description: A blog about stats, machine learning, and R.
   favicon: /img/favicon.ico
   headingFontFamily: sans-serif
   logo: /img/blogophonic-mark-dark.png
@@ -44,36 +44,30 @@ params:
   math:
     renderer: katex
   navallcaps: yes
-  orgLocal: Anywhere
-  orgName: RStudio
+  orgLocal:
+  orgName:
   sharing_image: /img/papillons.jpg
   social:
     - icon: github
       icon_pack: fab
-      url: https://github.com/apreshill/apero
-    - icon: facebook-square
-      icon_pack: fab
-      url: https://www.facebook.com/hashtag/ap%C3%A9ro
-    - icon: instagram
-      icon_pack: fab
-      url: https://www.instagram.com/explore/tags/apero/
+      url: https://github.com/bcjaeger
+    - icon: google-scholar
+      icon_pack: ai
+      url: https://scholar.google.com/citations?user=4IKD_roAAAAJ&hl=en
     - icon: twitter
       icon_pack: fab
-      url: https://twitter.com/hashtag/apéro
-    - icon: impactstory
-      icon_pack: ai
-      url: https://impactstory.org/u/0000-0002-8082-1890
+      url: https://twitter.com/byronjaeger1
     - icon: orcid
       icon_pack: ai
-      url: http://orcid.org/0000-0002-8082-1890
+      url: http://orcid.org/0000-0001-7399-2299
     - icon: rss
       icon_pack: fas
       url: /blog/index.xml
   socialInFooter: yes
   socialInHeader: no
   textFontFamily: sans-serif
-  theme: sky
-  twitter: apreshill
+  theme: grayscale
+  twitter: byronjaeger1
   utterances:
     issue_term: pathname
     label: 'comments :crystal_ball:'
@@ -100,7 +94,7 @@ menu:
       weight: 3
   header:
     - name: About
-      title: About Blogophonic
+      title: About Me
       url: /about/
       weight: 1
     - name: Blog
