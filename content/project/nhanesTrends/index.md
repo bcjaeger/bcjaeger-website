@@ -5,9 +5,9 @@ categories:
 - NHANES
 date: "2022-07-30"
 draft: false
-excerpt:
+excerpt: This shiny application is also an R package. It comes with meticulously cleaned data from the National Health and Nutrition Examination Survey (NHANES) and a function to run the `nhanesTrends` app locally.
 layout: single
-subtitle: This shiny application is also an R package. It comes with meticulously cleaned data from the National Health and Nutrition Examination Survey (NHANES) and a function to run the app locally.
+subtitle: This shiny application is also an R package. It comes with meticulously cleaned data from the National Health and Nutrition Examination Survey (NHANES) and a function to run the `nhanesTrends` app locally.
 tags:
 - hugo-site
 title: nhanesTrends
@@ -20,7 +20,7 @@ title: nhanesTrends
 
 ### Work in progress
 
-This R package works fine but me and my teammates are still developing it. Please, check out the public site and send me your feedback!
+This R package works fine but my teammates and I are still developing it. Please, check out the public site and send me your feedback.
 
 Check out the app here: https://bcjaeger.shinyapps.io/nhanesShinyBP/
 

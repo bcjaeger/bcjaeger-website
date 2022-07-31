@@ -2,7 +2,7 @@
 author: Byron C Jaeger
 categories:
 - Machine learning
-- survival
+- survival analysis
 - R package
 date: "2022-07-30"
 draft: false
