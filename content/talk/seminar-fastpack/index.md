@@ -2,7 +2,7 @@
 author: Byron C Jaeger
 categories:
 - Seminar
-date: "2022-08-08"
+date: "2022-08-04"
 draft: false
 event: Joint Statistical Meetings, 2022
 event_url: https://ww2.amstat.org/meetings/jsm/2022/

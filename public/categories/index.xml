@@ -6,22 +6,22 @@
     <description>Recent content in Categories on Byron&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 30 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.byronjaeger.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.byronjaeger.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seminar</title>
+      <link>https://www.byronjaeger.com/categories/seminar/</link>
+      <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.byronjaeger.com/categories/seminar/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Machine learning</title>
       <link>https://www.byronjaeger.com/categories/machine-learning/</link>
       <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.byronjaeger.com/categories/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NHANES</title>
-      <link>https://www.byronjaeger.com/categories/nhanes/</link>
-      <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.byronjaeger.com/categories/nhanes/</guid>
       <description></description>
     </item>
     
@@ -35,74 +35,47 @@
     </item>
     
     <item>
+      <title>survival analysis</title>
+      <link>https://www.byronjaeger.com/categories/survival-analysis/</link>
+      <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.byronjaeger.com/categories/survival-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>variable importance</title>
+      <link>https://www.byronjaeger.com/categories/variable-importance/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.byronjaeger.com/categories/variable-importance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NHANES</title>
+      <link>https://www.byronjaeger.com/categories/nhanes/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.byronjaeger.com/categories/nhanes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Shiny application</title>
       <link>https://www.byronjaeger.com/categories/shiny-application/</link>
-      <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.byronjaeger.com/categories/shiny-application/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>survival</title>
-      <link>https://www.byronjaeger.com/categories/survival/</link>
-      <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
+      <title>Talk</title>
+      <link>https://www.byronjaeger.com/categories/talk/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.byronjaeger.com/categories/survival/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Theme Features</title>
-      <link>https://www.byronjaeger.com/categories/theme-features/</link>
-      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.byronjaeger.com/categories/theme-features/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>evergreen</title>
-      <link>https://www.byronjaeger.com/categories/evergreen/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.byronjaeger.com/categories/evergreen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>workshop</title>
-      <link>https://www.byronjaeger.com/categories/workshop/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.byronjaeger.com/categories/workshop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>https://www.byronjaeger.com/categories/r/</link>
-      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.byronjaeger.com/categories/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>meetup</title>
-      <link>https://www.byronjaeger.com/categories/meetup/</link>
-      <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
-      
-      <guid>https://www.byronjaeger.com/categories/meetup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>package</title>
-      <link>https://www.byronjaeger.com/categories/package/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.byronjaeger.com/categories/package/</guid>
+      <guid>https://www.byronjaeger.com/categories/talk/</guid>
       <description></description>
     </item>
     

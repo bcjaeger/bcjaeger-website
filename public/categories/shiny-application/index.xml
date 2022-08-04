@@ -6,14 +6,16 @@
     <description>Recent content in Shiny application on Byron&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 30 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.byronjaeger.com/categories/shiny-application/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.byronjaeger.com/categories/shiny-application/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>nhanesTrends</title>
       <link>https://www.byronjaeger.com/project/nhanestrends/</link>
-      <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.byronjaeger.com/project/nhanestrends/</guid>
-      <description>Work in progress This R package works fine but me and my teammates are still developing it. Please, check out the public site and send me your feedback!</description>
+      <description>Work in progress This R package works fine but my teammates and I are still developing it. Please, check out the public site and send me your feedback.
+Check out the app here: https://bcjaeger.shinyapps.io/nhanesShinyBP/
+Your email:Your message:Send</description>
     </item>
     
   </channel>

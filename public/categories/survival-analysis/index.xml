@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>survival analysis on Byron&#39;s Blog</title>
+    <link>https://www.byronjaeger.com/categories/survival-analysis/</link>
+    <description>Recent content in survival analysis on Byron&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 30 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.byronjaeger.com/categories/survival-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>aorsf</title>
+      <link>https://www.byronjaeger.com/project/aorsf/</link>
+      <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.byronjaeger.com/project/aorsf/</guid>
+      <description>aorsf provides optimized software to fit, interpret, and make predictions with oblique random survival forests (ORSFs). Why aorsf? over 400 times faster than obliqueRSF.
+accurate predictions for time-to-event outcomes.
+negation importance, a novel technique to estimate variable importance for ORSFs.
+intuitive API with formula based interface.
+extensive input checks + informative error messages.
+Installation You can install the development version of aorsf from GitHub with:
+# install.packages(&amp;#34;remotes&amp;#34;) remotes::install_github(&amp;#34;bcjaeger/aorsf&amp;#34;) Example The orsf() function is used to fit ORSFs.</description>
+    </item>
+    
+    <item>
+      <title>Benchmarking aorsf</title>
+      <link>https://www.byronjaeger.com/project/aorsf-bench/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.byronjaeger.com/project/aorsf-bench/</guid>
+      <description>aorsf is an R package for oblique random survival forests, designed with a fast core algorithm and a friendly API. aorsf-bench summarizes aorsf&amp;rsquo;s efficiency and prediction accuracy compared to obliqueRSF and several standard packages for risk prediction using machine learning. I plan on filling this page with the contents of the readme file for aorsf-bench, and I plan to work on that readme file very soon. I will also be putting aorsf-bench on ArXiv soon.</description>
+    </item>
+    
+  </channel>
+</rss>

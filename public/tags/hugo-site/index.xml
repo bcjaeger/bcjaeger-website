@@ -8,41 +8,6 @@
     <language>en</language>
     <lastBuildDate>Sat, 30 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.byronjaeger.com/tags/hugo-site/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>A first post</title>
-      <link>https://www.byronjaeger.com/blog/spoonful-series/01-spoonful/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.byronjaeger.com/blog/spoonful-series/01-spoonful/</guid>
-      <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
-Here I am: content/blog\spoonful-series\01-spoonful.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: blog My layout is: single-series does this work? or this? Let&amp;rsquo;s start.
-beginning middle end </description>
-    </item>
-    
-    <item>
-      <title>A second post</title>
-      <link>https://www.byronjaeger.com/blog/spoonful-series/02-spoonful/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.byronjaeger.com/blog/spoonful-series/02-spoonful/</guid>
-      <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
-Here I am: content/blog\spoonful-series\02-spoonful\index.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: blog My layout is: single-series Images in this page bundle: /blog/spoonful-series/02-spoonful/sidebar-inverse.jpg part 2! does this work? now for some very cool things more get ready! </description>
-    </item>
-    
-    <item>
-      <title>A third post</title>
-      <link>https://www.byronjaeger.com/blog/spoonful-series/03-spoonful/</link>
-      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.byronjaeger.com/blog/spoonful-series/03-spoonful/</guid>
-      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
-Here I am: content/blog\spoonful-series\03-spoonful\index.markdown Here is my R Markdown source file: blog\spoonful-series\03-spoonful\index.Rmarkdown You&#39;ll want to edit this file, then re-knit to see the changes take effect in your site preview.
-To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: blog My layout is: single-series Images in this page bundle: /blog/spoonful-series/03-spoonful/featured-photo.</description>
-    </item>
-    
-    <item>
       <title>aorsf</title>
       <link>https://www.byronjaeger.com/project/aorsf/</link>
       <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
@@ -58,50 +23,23 @@ Installation You can install the development version of aorsf from GitHub with:
     </item>
     
     <item>
+      <title>Benchmarking aorsf</title>
+      <link>https://www.byronjaeger.com/project/aorsf-bench/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.byronjaeger.com/project/aorsf-bench/</guid>
+      <description>aorsf is an R package for oblique random survival forests, designed with a fast core algorithm and a friendly API. aorsf-bench summarizes aorsf&amp;rsquo;s efficiency and prediction accuracy compared to obliqueRSF and several standard packages for risk prediction using machine learning. I plan on filling this page with the contents of the readme file for aorsf-bench, and I plan to work on that readme file very soon. I will also be putting aorsf-bench on ArXiv soon.</description>
+    </item>
+    
+    <item>
       <title>nhanesTrends</title>
       <link>https://www.byronjaeger.com/project/nhanestrends/</link>
-      <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.byronjaeger.com/project/nhanestrends/</guid>
-      <description>Work in progress This R package works fine but me and my teammates are still developing it. Please, check out the public site and send me your feedback!</description>
-    </item>
-    
-    <item>
-      <title>A Spoonful of Hugo</title>
-      <link>https://www.byronjaeger.com/blog/spoonful-series/</link>
-      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.byronjaeger.com/blog/spoonful-series/</guid>
-      <description>** No content below YAML for the series _index. This file is a leaf bundle, and provides settings for the listing page layout and sidebar content.**</description>
-    </item>
-    
-    <item>
-      <title>CSS Grid Scaffold</title>
-      <link>https://www.byronjaeger.com/blog/css-grid-scaffold/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.byronjaeger.com/blog/css-grid-scaffold/</guid>
-      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.” — Chris House, A Complete Guide to CSS Grid Layout 1
-Overview Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips.</description>
-    </item>
-    
-    <item>
-      <title>Palmer Penguins</title>
-      <link>https://www.byronjaeger.com/project/penguins/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.byronjaeger.com/project/penguins/</guid>
-      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.” — Chris House, A Complete Guide to CSS Grid Layout 1
-Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips. Most times, while fighting with floats and widths of content and sidebars or just basically trying to get something beside something else without using a stupid TABLE.</description>
-    </item>
-    
-    <item>
-      <title>Built-in Contact Form</title>
-      <link>https://www.byronjaeger.com/blog/built-in-contact-form/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.byronjaeger.com/blog/built-in-contact-form/</guid>
-      <description>Formspree makes it easy to receive submissions from HTML forms on your static website. Functional Form This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used. Please use your actual email address.</description>
+      <description>Work in progress This R package works fine but my teammates and I are still developing it. Please, check out the public site and send me your feedback.
+Check out the app here: https://bcjaeger.shinyapps.io/nhanesShinyBP/
+Your email:Your message:Send</description>
     </item>
     
   </channel>
