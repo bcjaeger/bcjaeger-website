@@ -21,7 +21,7 @@ links:
 location: Washington, DC
 show_post_time: false
 subtitle: Four guidelines for faster code
-title: Sharing your method with R(cpp)
+title: Disseminating Prediction Methods
 ---
 
 I'm really excited to give this talk in Washington DC at JSM!
