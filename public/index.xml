@@ -6,7 +6,7 @@
     <description>Recent content in Byron&#39;s blog on Byron&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.byronjaeger.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.byronjaeger.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netlify</title>
       <link>https://www.byronjaeger.com/collection/day02/01-netlify/</link>
@@ -84,6 +84,24 @@ Clone GitHub repo usethis::create_from_github(&amp;quot;https://github.com/apres
       <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
 Here I am: content/collection\day02\03-blogdown\index.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
 My content section is: collection My layout is: single-series part 2! does this work? now for some very cool things more get ready! </description>
+    </item>
+    
+    <item>
+      <title>Accelerated oblique random survival forests</title>
+      <link>https://www.byronjaeger.com/talk/seminar-orsf-vi/</link>
+      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.byronjaeger.com/talk/seminar-orsf-vi/</guid>
+      <description>I have given this talk in multiple places, but its original venue was the International Chinese Statistical Association&amp;rsquo;s Applied Statistics Symposium. I am also continuing to develop the slides in between talks.</description>
+    </item>
+    
+    <item>
+      <title>Making Machine Learning Fast and Interpretable</title>
+      <link>https://www.byronjaeger.com/talk/seminar-grandrounds/</link>
+      <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.byronjaeger.com/talk/seminar-grandrounds/</guid>
+      <description>This talk will be given in the Wake Forest Biotech Place auditorium on September 8 at noon eastern time.</description>
     </item>
     
     <item>
