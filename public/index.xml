@@ -6,7 +6,7 @@
     <description>Recent content in Byron&#39;s blog on Byron&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.byronjaeger.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.byronjaeger.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netlify</title>
       <link>https://www.byronjaeger.com/collection/day02/01-netlify/</link>
@@ -84,6 +84,15 @@ Clone GitHub repo usethis::create_from_github(&amp;quot;https://github.com/apres
       <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
 Here I am: content/collection\day02\03-blogdown\index.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
 My content section is: collection My layout is: single-series part 2! does this work? now for some very cool things more get ready! </description>
+    </item>
+    
+    <item>
+      <title>R/Medicine Demo day - aorsf</title>
+      <link>https://www.byronjaeger.com/talk/seminar-orsf-rmedicine/</link>
+      <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.byronjaeger.com/talk/seminar-orsf-rmedicine/</guid>
+      <description>I am very excited to give this talk on June 7 at R/medicine!</description>
     </item>
     
     <item>

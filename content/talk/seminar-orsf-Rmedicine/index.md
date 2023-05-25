@@ -2,7 +2,7 @@
 author: Byron C Jaeger
 categories:
 - Talk
-date: "2023-06-07"
+date: "2023-05-24"
 draft: false
 event: R Medicine 2023
 event_url: https://events.linuxfoundation.org/r-medicine/
@@ -20,7 +20,7 @@ links:
   url: https://github.com/bcjaeger/seminar-orsf-Rmedicine
 location: Virtual
 show_post_time: false
-title: Accelerated oblique random survival forests
+title: R/Medicine Demo day - aorsf
 ---
 
 I am very excited to give this talk on June 7 at R/medicine!
